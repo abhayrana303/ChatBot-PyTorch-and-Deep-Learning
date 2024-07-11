@@ -1,0 +1,22 @@
+{
+  "intents": [
+      {
+          "tag": "g",
+          "patterns": [
+              "Hi",
+              "Hey",
+              "How are you",
+              "Is anyone there",
+              "Hello",
+              "Good day"
+          ],
+          "responses": [
+              "Hey :-)",
+              "Hello, thanks for visiting",
+              "Hi,How can i help you ?",
+              "Hey there, what can i do for you ?",
+              "Hi,How can i assist you ?"
+          ]
+        }
+    ]
+}
